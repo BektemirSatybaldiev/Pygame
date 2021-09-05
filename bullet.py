@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pygame, os
 
 class Bullet(pygame.sprite.Sprite):
@@ -23,7 +22,6 @@ class Bullet(pygame.sprite.Sprite):
         """рисуем пулю красиво"""
         pygame.draw.rect(self.screen, self.color, self.rect)
 
-=======
 import pygame, os
 
 class Bullet(pygame.sprite.Sprite):
@@ -48,4 +46,3 @@ class Bullet(pygame.sprite.Sprite):
         """рисуем пулю красиво"""
         pygame.draw.rect(self.screen, self.color, self.rect)
 
->>>>>>> cf059a02c6da10d8f4d4a86e869e4d0ce6164e43
