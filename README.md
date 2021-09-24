@@ -1,1 +1,1 @@
-# Pygame
+# Cosmo. Hi there, it's my first game in Pygame. I have created an aliens army and big tank gun. This gun can shoot bullets and destroy enemies. Also there are possibility of moving gun to the left and to the right. Aliens can win gun if they cross bottom line of screen.
